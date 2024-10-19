@@ -15,7 +15,7 @@ class Urls {
       "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4";
 
   static const String baseUrl =
-      'https://backend.smartvision4p.com/valet_parking/public/api';
+      'https://backend.4.com/valet_parking/public/api';
   static const String login = '$baseUrl/user/login';
   static const String register = '$baseUrl/user/register';
   static const String logout = '$baseUrl/user/user-logout';
